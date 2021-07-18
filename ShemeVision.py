@@ -1,6 +1,5 @@
 from PyQt5.QtWidgets import (QApplication, QWidget, QMainWindow, QPushButton, QAction, QHeaderView, QLineEdit,
                              QTableWidget, QTableWidgetItem, QVBoxLayout, QHBoxLayout)
-# from PyQt5.QtGui import QIcon, Qt
 from PyQt5.QtGui import QPainter, QStandardItemModel, QIcon
 from PyQt5.Qt import Qt
 from tkinter import filedialog
